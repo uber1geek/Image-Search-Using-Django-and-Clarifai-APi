@@ -1,0 +1,3 @@
+https://samples.clarifai.com/wedding.jpg
+https://samples.clarifai.com/puppy.jpeg
+https://samples.clarifai.com/metro-north.jpg
